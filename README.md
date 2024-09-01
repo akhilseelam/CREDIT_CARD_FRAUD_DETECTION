@@ -1,5 +1,8 @@
 # CREDIT_CARD_FRAUD_DETECTION
 
+**DATASET LINK** :- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 **Credit Card Fraud Detection**
 This project focuses on building a predictive model for credit card fraud detection using machine learning techniques. The dataset used in this project is a credit card transaction dataset, which includes features derived from real transactions made by European cardholders.
 
